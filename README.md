@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Tshepang! 👋
 
-<!--
-**tshepang-christmas/tshepang-christmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
 
-Here are some ideas to get you started:
+**Sports Science MED Student** at University of Botswana, combining **exercise physiology** expertise with **data science** to optimize athletic performance in football and athletics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Exercise Physiologist | Performance Testing Specialist
+- 📊 Certified Data Engineer (DataCamp)
+- ⚽ Aspiring Sports Data Scientist
+- 🏃 Focus: Football & Athletics Performance Analytics
+- 🎓 Graduate Demonstrator at University of Botswana
+
+## 🛠️ Technical Skills
+
+**Data Science & Programming:**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Data analysis and visualization
+
+**Sports Science:**
+- Exercise physiology and performance testing
+- Training load monitoring
+- VO2 max testing and analysis
+- Research methodology
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tshepang-christmas-1a3268193/)
+- 📍 Gaborone, Botswana
+
+💡 **Building the bridge between sports science and data analytics**
