@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-**Sports Science MED Student** at University of Botswana, combining **exercise physiology** expertise with **data science** to optimize athletic performance in football and athletics.
+**Sports Science MEd Student** at University of Botswana, combining **exercise physiology** expertise with **data science** to optimize athletic performance in football and athletics.
 
 - 🔬 Exercise Physiologist | Performance Testing Specialist
 - 📊 Certified Data Engineer (DataCamp)
